@@ -14,7 +14,7 @@ PHONE: +38 068 4489766 \
 EMAIL: solovyova.lesya@gmail.com\
 [**TELEGRAM**](https://t.me/Lesia_Soloviova){:target="\_blank"}  
 [**GITHUB**](https://github.com/LesiaUKR){:target="\_blank"}  
-[**LINKEDIN**](www.linkedin.com/in/lesia-soloviova) {:target="\_blank"}
+[**LINKEDIN**](www.linkedin.com/in/lesia-soloviova){:target="\_blank"}
 
 ### Skills
 
@@ -105,7 +105,7 @@ _«JavaScript/Front-end. Stage 1» - 2023 - now_
 
 **Neoversity - master's program in IT from GoIt/Woolf**
 
-_Master of Science in Computer Science: Software Engineering | 2023 - now_
+_Master of Science in Computer Science: Software Engineering - 2023 - now_
 
 **IT School GoIT**
 
