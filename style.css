@@ -1,0 +1,39 @@
+/* FOLDER UTILS */
+@import url("./utils/reset.css");
+@import url("./utils/colors.css");
+@import url("./utils/command.css");
+
+.sidebar-container {
+  width: 280px;
+  height: 100%;
+  padding: 40px 30px;
+  background-color: white;
+  position: fixed;
+}
+
+.main-container {
+  display: flex;
+  flex-direction: column;
+  gap: 50px;
+  padding: 40px 0px 40px 280px;
+}
+
+.sidebar-nav__list {
+  display: flex;
+  flex-direction: column;
+  margin-top: 50px;
+  row-gap: 15px;
+  font-size: 24px;
+}
+
+.nav__list-text {
+  color: #757575;
+}
+
+.section-title {
+  background-color: #008073;
+  color: white;
+  font-weight: 400;
+  padding: 30px 40px;
+  text-transform: uppercase;
+}
