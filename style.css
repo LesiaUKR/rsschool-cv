@@ -3,5 +3,22 @@
 @import url("./utils/colors.css");
 @import url("./utils/command.css");
 
-/* .nav-list {
-} */
+.main {
+  display: flex;
+}
+
+.sidebar-container {
+  width: 280px;
+  height: 100%;
+  padding: 40px 20px;
+  background-color: white;
+}
+
+.main-container {
+  display: flex;
+  flex-direction: column;
+  width: 1160px;
+  padding: 40px 40px;
+  margin-left: auto;
+  margin-right: auto;
+}
